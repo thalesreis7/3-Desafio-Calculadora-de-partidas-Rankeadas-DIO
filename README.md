@@ -1,4 +1,4 @@
-# 2️⃣ Desafio Calculadora de partidas Rnakeadas - [DIO](https://www.dio.me)
+# 2️⃣ Desafio Calculadora de partidas Rankeadas - [DIO](https://www.dio.me)
 
 # 📚 O que foi utilizado:
 - Variáveis
